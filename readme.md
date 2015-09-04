@@ -17,7 +17,7 @@ With Python installed, install the following packages with PIP:
 - websockets (pip install websocket-client)
 - dill (pip install dill)
 
-And, finally, the CanaryMod server (https://canarymod.net/releases/) with RaspberryJuice plugin (https://github.com/martinohanlon/CanaryRaspberryJuice). A prepared server with most settings done can be found here: (link to minecraft-server.zip)
+And, finally, the CanaryMod server (https://canarymod.net/releases/) with RaspberryJuice plugin (https://github.com/martinohanlon/CanaryRaspberryJuice). A prepared server with most settings done can be found here: [minecraft-server.zip](https://www.dropbox.com/s/vc7exeuitc5kzbs/minecraft.zip?dl=0 "minecraft server")
 
 ## Further instructions
 
