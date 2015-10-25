@@ -1,3 +1,7 @@
+This project was part of my Master thesis at [Lund University Cognitive Science](https://lucs.lu.se).
+
+The thesis paper itself can be found [here](https://goo.gl/1xD7Y0)
+
 # Maia install instructions
 
 You need to install the following applications:
